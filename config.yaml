@@ -1,0 +1,11 @@
+---
+contentdir: "content"
+layoutdir: "layouts"
+publishdir: "public"
+indexes:
+  category: "categories"
+baseurl: "http://sigje.github.io/"
+title: "a blog on sparkly devops"
+canonifyurls: true
+theme: "Lanyon"
+...
